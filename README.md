@@ -3,15 +3,13 @@ Aplikasi Kasir merupakan aplikasi untuk menyimpan produk, menghitung jumlah bela
 aplikasi ini bisa digunakan di toko toko untuk mempermudah 
 
 #Mamber Of the group
-- Ultrasonic hc-sr04
-- Arduino Pro Mini atau yang lain
-- Arduino 4 => Ultrasonic hc-sr04 Trig
-- Arduino 5 => Ultrasonic hc-sr04 Echo
-- Arduino 5 => Ultrasonic hc-sr04 Echo
+- Daililah Syahrina Aulia 32602200061
+- Dimas Taufikurrahman
+- Fajar Octanouva
+- Keisya Anazwa
+- Maulana Alfi H
 
-#Pinout
-
-- Arduino 4 => Ultrasonic hc-sr04 Trig
-- Arduino 5 => Ultrasonic hc-sr04 Echo
-
-- Arduino 9 => Buzzer
+#Fitur aplikasi
+- penambahan
+- pengurangan
+- penyimpanan
